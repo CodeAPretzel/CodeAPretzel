@@ -4,5 +4,4 @@
 - 💞️ I’m looking to collaborate on...none.
 - 📫 How to reach me...none.
 <br>
-\- 
-* This isn't a ✨ special ✨ repository but I'm hoping to put more into this as I learn and do more; w/ projects and such.
+- This isn't a ✨ special ✨ repository but I'm hoping to put more into this as I learn and do more; w/ projects and such.
