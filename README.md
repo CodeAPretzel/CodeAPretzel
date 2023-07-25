@@ -51,5 +51,5 @@ I'm trying to learn more about programming and figuring out complex logic 💻.
 </p>
 <be>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeAPretzel&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="25%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeAPretzel&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="35%">
 </p>
