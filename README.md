@@ -21,7 +21,41 @@ One of my favorite hobbies is going out in nature 🌲.
 <br>
 I'm trying to learn more about programming and figuring out complex logic 💻.
 <br>
-↳ Most of the languages I know are `Python, C, C#, C++, and some terminal and web-based`
+↳ Most of the languages I know are:
+<br>
+<br>
+Python
+```py
+print("Python")
+```
+C
+```c
+#include <stdio.h>
+
+void main() {
+  printf("C\n");
+  system("pause");
+}
+```
+C#
+```cs
+using System;
+
+public class RunProgram
+{
+  Console.Write("C#"); //Most of my knowledge of C# is from Unity
+}
+```
+C++
+```cpp
+#include <iostream>
+
+int main()
+{
+  std::cout << "C++\n";
+}
+```
+And some terminal and web-based languages.
 
 <br>
 
