@@ -63,7 +63,7 @@ And some terminal and web-based languages.
 
 **Discord:** `corridormethod`
 <br>
-**Twitter:** `[at]PretzelMano`
+**Twitter:** [@PretzelMano](https://twitter.com/PretzelMano)
 
 <br>
 
