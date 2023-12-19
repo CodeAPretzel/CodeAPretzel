@@ -61,7 +61,7 @@ And some terminal and web-based languages.
 
 ## <img src="https://emojis.slackmojis.com/emojis/images/1643514596/5999/meow_party.gif?1643514596" alt="Dancing Cat" height="30"> Contacts:
 
-**Discord:** `corridormethod`
+**Discord:** `@corridormethod`
 <br>
 **Twitter:** [@PretzelMano](https://twitter.com/PretzelMano)
 
