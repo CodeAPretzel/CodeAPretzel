@@ -32,18 +32,19 @@ C
 ```c
 #include <stdio.h>
 
-void main() {
+int main() {
   printf("C\n");
-  system("pause");
+  return 0;
 }
 ```
 C#
 ```cs
 using System;
 
-public class RunProgram
-{
-  Console.Write("C#"); //Most of my knowledge of C# is from Unity
+class README {
+  static void Main() {
+    Console.WriteLine("C#");
+  }
 }
 ```
 C++
