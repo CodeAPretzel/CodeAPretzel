@@ -10,18 +10,16 @@
 
 ## ✨ About Me:
 
-Currently, I'm trying to learn more about CS, programming, game development, and cybersecurity.
+Currently, I'm trying to learn more about CS, embedded systems programming, and cybersecurity.
 
 - 
 
-One of my favorite hobbies is going out in nature 🌲.
+One of my favorite hobbies is going out in nature!
 <br>
 ↳ I especially love going on hikes and trails!
 <br>
 <br>
-I'm trying to learn more about programming and figuring out complex logic 💻.
-<br>
-↳ Most of the languages I know are:
+Most of the languages I know are:
 <br>
 <br>
 Python
@@ -56,7 +54,7 @@ int main()
   std::cout << "C++\n";
 }
 ```
-And some terminal and web-based languages.
+And some terminal and web-based development languages.
 
 <br>
 
