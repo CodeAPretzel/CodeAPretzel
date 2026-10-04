@@ -10,7 +10,7 @@
 
 ## About Me:
 
-Currently, I'm learn more about computer science, embedded systems programming, cybersecurity, and brain computer interface medical technologies.
+Currently, I am learning more about computer science, embedded systems programming, cybersecurity, and brain computer interface medical technologies.
 
 - 
 
